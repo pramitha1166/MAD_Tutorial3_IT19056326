@@ -59,10 +59,11 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="100dp">
+            android:layout_height="100dp"
+            android:padding="30dp">
 
             <TextView
-                android:textSize="14sp"
+                android:textSize="24sp"
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true"
                 android:layout_width="200dp"
